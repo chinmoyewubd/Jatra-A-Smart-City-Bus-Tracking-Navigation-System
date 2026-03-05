@@ -50,8 +50,6 @@ This application implements a **3-Layer Validation Algorithm** to ensure data in
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## 🐛 Bug Reporting
-Found a bug? Please open an issue in this repository or contact me directly at **enamulhasan248@gmail.com**.
 
 ## License
 [Add License Information Here. Not yet licensed.]
