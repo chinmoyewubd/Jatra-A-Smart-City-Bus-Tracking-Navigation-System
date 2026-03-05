@@ -35,7 +35,7 @@ This application implements a **3-Layer Validation Algorithm** to ensure data in
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/enamulhasan248/Jatra-A-Smart-City-Bus-Tracking-Navigation-System.git](https://github.com/enamulhasan248/Jatra-A-Smart-City-Bus-Tracking-Navigation-System.git)
+    git clone (https://github.com/chinmoyewubd/Jatra-A-Smart-City-Bus-Tracking-Navigation-System.git)
     ```
 2.  **Open in Android Studio**:
     * Open Android Studio and select "Open an existing Android Studio project".
